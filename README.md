@@ -1,5 +1,8 @@
 # Basic TYPO3 Extension Skeleton for TYPO3 7LTS [![Build Status](https://travis-ci.org/helhum/ext_scaffold.svg?branch=master)](https://travis-ci.org/helhum/ext_scaffold)
 
+SMALL CHANGE HERE
+
+
 ## [composer.json](https://github.com/helhum/ext_scaffold/blob/master/composer.json) explained
 
 ### composer name ([doc](https://getcomposer.org/doc/04-schema.md#name))

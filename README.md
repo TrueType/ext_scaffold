@@ -1,4 +1,4 @@
-# Basic TYPO3 Extension Skeleton for TYPO3 7LTS [![Build Status](https://travis-ci.org/truetype/ext_scaffold.svg?branch=master)](https://travis-ci.org/truetype/ext_scaffold)
+# Basic TYPO3 Extension Skeleton for TYPO3 7LTS [![Build Status](https://travis-ci.org/TrueType/ext_scaffold.svg?branch=master)](https://travis-ci.org/TrueType/ext_scaffold)
 
 ## [composer.json](https://github.com/helhum/ext_scaffold/blob/master/composer.json) explained
 
